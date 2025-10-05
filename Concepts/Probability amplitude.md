@@ -1,0 +1,2 @@
+- Complex number
+- Absolute square of it gives the probability density of finding a particle in that state

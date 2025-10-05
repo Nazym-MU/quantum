@@ -1,0 +1,3 @@
+- What's the meaning of probability amplitude (the complex coefficient). I know that its square gives the actual probability
+- What distribution to use making reasonable samples
+- Is it okay to select a specific phase or should I write in the general form?

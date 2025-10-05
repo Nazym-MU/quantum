@@ -1,0 +1,25 @@
+# Obsidian (local workspace / UI state)
+.obsidian/workspace.json
+.obsidian/workspace.*
+.obsidian/cache/
+# Optional: ignore other per-machine Obsidian metadata
+.obsidian/graph.json
+.obsidian/*.json
+
+# Editor/project configs (optional)
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets / logs
+.env
+*.log
+
+# Node / build artifacts (if applicable)
+node_modules/
+dist/
+build/
