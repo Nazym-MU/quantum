@@ -2,4 +2,6 @@
 - Week 2: [[Matrix Mechanics]]
 - Week 3: [[Commutators]], [[Angular momentum eigenstuff]]
 - Week 4: [[Intrinsic spin angular momentum operators]]
-- Week 5: [[Time Dependence and Evolution]]
+- Week 5.1: [[Time Dependence and Evolution]]
+- Week 5.2: [[Two-Particle Spin Systems]]
+- 

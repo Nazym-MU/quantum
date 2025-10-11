@@ -1,5 +1,0 @@
-- [[Ampere's law]]
-- Differential form
-- Magnetic moment inversely proportional to the mass
-- How to write the problem 1.3 in the general form
-- Euler's formula
