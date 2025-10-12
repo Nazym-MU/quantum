@@ -1,2 +1,0 @@
-- Different eigenvectors with the same eigenvalue.
-- 

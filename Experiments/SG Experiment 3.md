@@ -10,7 +10,7 @@ $$\bra{\psi} = c_+' \bra{+z}+ c_-' \bra{-z}$$
 ---
 General solution for c+ and c-:
 $$c_+ = \frac{e^{i\delta_+}}{\sqrt{2}} \text{ and } c_- = \frac{e^{i\delta_-}}{\sqrt{2}}$$
-[[Expectation value]] and [[Uncertainty]]:
+[[Expectation Values]] and [[Uncertainty]]:
 $$\braket{S_z^2} = \frac{\hbar^2}{4} \text{ and } \Delta S_z = \frac{\hbar}{2} \text{ for a single particle in the state } \ket{+x}$$
 #### Tags:
 #ket_vector #bra_vector [[Quantum State Vector]]

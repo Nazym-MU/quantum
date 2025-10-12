@@ -1,2 +1,0 @@
-- A mathematical operation on a vector space that takes two vectors and returns a scalar.
-- Generalization of the dot product

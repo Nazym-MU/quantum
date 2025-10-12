@@ -1,0 +1,3 @@
+- **Orbital angular momentum** (L̂): j must be integer (ℓ = 0,1,2,...)
+- **Spin angular momentum** (Ŝ): j can be half-integer (s = 0, 1/2, 1, ...)
+- **Total** (Ĵ = L̂ + Ŝ): Depends on combination

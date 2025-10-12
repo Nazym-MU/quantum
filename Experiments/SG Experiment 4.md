@@ -4,7 +4,7 @@
 	- $\hat{P}_+\ket{+z} = \ket{+z}\bra{+z}\ket{+z} = \ket{+z}$ - eigenstate with an eigenvalue 1
 	- $\hat{P}_+\ket{-z} = \ket{+z}\bra{+z}\ket{-z} = 0$ - eigenstate with an eigenvalue 0
 - x-basis representation - to find probabilities of specific outcomes
-	- Uses [[Identity operator]]
+	- Uses [[Identity Operators]]
 	- Different probability calculation: with vs. without making a measurement [[(7)]]
 ## Conclusion
 ---
