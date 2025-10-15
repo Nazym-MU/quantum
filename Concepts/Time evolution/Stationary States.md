@@ -17,6 +17,4 @@ If $\ket{\psi(0)} = c₁\ket{E₁} + c₂\ket{E₂}$ with E₁ ≠ E₂:
 - Expectation values oscillate with frequency ω = (E₂-E₁)/ℏ
 - NOT a stationary state
 ## Related
-- [[Energy Eigenstates]]
 - [[Schrödinger Equation (Time-Independent)]]
-- [[Relative phases]]
