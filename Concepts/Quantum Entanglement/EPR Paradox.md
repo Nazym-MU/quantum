@@ -13,8 +13,8 @@ If particle 2 has preset Sz = -ℏ/2, it cannot simultaneously have preset Sx. Y
 [[Bell's Inequality]] proves no hidden variable theory can work.
 ## Non-Locality vs. No-Communication
 **Distinction:**
-- Non-locality exists: measuring particle 1 instantaneously affects particle 2's state
-- But no FTL communication: Alice can't control her result, so can't send signal to Bob
+- Non-locality exists: measuring particle 1 instantaneously affects particle 2's state (locality violated - objects can influence beyond immediate surroundings).
+- But no FTL communication: Alice can't control her result, so can't send signal to Bob - an effect cannot precede its cause (no causality violated).
 Correlation without causation.
 ## Related Concepts
 - [[Local Realism]]
