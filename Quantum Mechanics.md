@@ -4,5 +4,12 @@
 - [[Week 4 - Spin Operators]]
 - [[Week 5.1 - Time Evolution]]
 - [[Week 5.2 - Two-Particle Systems]]
+- [[Week 6 - EPR Paradox and Bells Inequality]]
+- [[Week 7.1 - Entanglement and Quantum Teleportation]]
+- [[Week 7.2 - Density Operator]]
+- [[Week 8 - Wave Mechanics Foundations]]
+- [[Week 9 - Uncertainty Relations]]
+- [[Week 9.2 - Bound States and Potential Wells]]
+- [[Week 10 - Scattering in One Dimension]]
 ---
 [[README]]

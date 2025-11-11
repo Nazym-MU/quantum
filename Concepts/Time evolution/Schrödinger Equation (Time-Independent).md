@@ -1,6 +1,6 @@
 **Definition:** Eigenvalue equation for the Hamiltonian operator. Determines energy eigenstates.
 $$\hat{H}\ket{E_n} = E_n\ket{E_n}$$
-- Relationship to Time-Dependent Form when Ĥ is time-independent and ψ is an energy eigenstate [[(14)]]. It just finds the special states (energy eigenstates), when time evolution is just a phase factor.
+- Relationship to Time-Dependent Form when Ĥ is time-independent and ψ is an energy eigenstate. It just finds the special states (energy eigenstates), when time evolution is just a phase factor.
 ## Purpose
 - Finds allowed energy levels E_n
 - Finds corresponding [[Stationary States]] |E_n⟩

@@ -1,0 +1,42 @@
+- **Schrödinger Equation in Position Space**
+	- Time-dependent: $i\hbar\frac{\partial\psi}{\partial t} = \hat{H}\psi$
+	- Time-independent: $\hat{H}\psi = E\psi$
+	- Projects abstract operator equation into position basis
+- **Bound States vs Scattering States**
+	- Bound: E < V(∞), discrete energies, localized, normalizable
+	- Scattering: E > V(∞), continuous energies, extended
+- **General Solution Behavior**
+	- E > V region: oscillatory, d²ψ/dx² = -k²ψ
+	- E < V region: exponential, d²ψ/dx² = +q²ψ  
+	- Turning point: E = V(x), inflection point
+- **Boundary Conditions**
+	- ψ(x) continuous everywhere (unless V = ∞)
+	- dψ/dx continuous at finite potential steps
+	- ψ = 0 at infinite walls
+- **Finite Square Well**
+	- Three regions: oscillatory inside, exponential decay outside
+	- Matching ψ and dψ/dx at boundaries → discrete energies
+	- Wave function penetrates into classically forbidden region
+- **Infinite Square Well (Particle in a Box)**
+	- V = ∞ walls → ψ = 0 at boundaries
+	- Quantization: kₙa = nπ
+	- Energies: Eₙ = n²π²ℏ²/(2ma²)
+	- Number of nodes = n - 1
+	- Exact analytical solution possible
+
+## Key Concepts
+- [[Bound States]]
+- [[Finite Square Well]]
+- [[Infinite Square Well (Particle in a Box)]]
+- [[Quantum Tunneling]]
+- [[Boundary Conditions for Wave Functions]]
+- [[Energy Quantization from Boundary Conditions]]
+## Key Results
+- Wave function behavior determined by sign of (E - V)
+- Boundary conditions force energy quantization
+- Ground state has nonzero energy (zero-point energy)
+- Node counting: higher energy → more nodes
+- Smaller confinement → larger energy spacing
+## Derivations
+- [[Particle in a Box Solution]]
+- [[Square Well Solution Forms]]

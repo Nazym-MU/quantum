@@ -1,0 +1,49 @@
+- **From Discrete to Continuous**
+	- Spin: discrete eigenstates |+z⟩, |-z⟩
+	- Position: continuous spectrum, position eigenstates |x⟩ for all x ∈ ℝ
+	- Momentum: continuous spectrum, momentum eigenstates |p⟩ for all p ∈ ℝ
+- **Wave Function Formalism**
+	- Position-space representation of quantum states
+	- ψ(x) = ⟨x|ψ⟩: amplitude to find particle at position x
+	- Probability density: |ψ(x)|² gives P(x) per unit length
+- **Translation Symmetry**
+	- Spatial translations T̂(a): shift states by distance a
+	- Generator of translations: momentum operator p̂ₓ
+	- Fundamental commutator: [x̂, p̂ₓ] = iℏ
+- **Momentum Space**
+	- Dual description: states as superposition of momentum eigenstates |p⟩
+	- Fourier transform connects position and momentum representations
+	- ⟨x|p⟩ = (1/√(2πℏ))e^(ipx/ℏ): de Broglie wavelength λ = h/p
+- **Wave Packets**
+	- Superposition of momentum states creating localized states
+	- Gaussian wave packets: minimum uncertainty states
+	- Free wave packets spread over time
+
+## Key Concepts
+- [[Position Eigenstates and Completeness]]
+- [[Wave Function]]
+- [[Translation Operator]]
+- [[Momentum Operator]]
+- [[Momentum Operator in Position Basis]]
+- [[Position-Momentum Commutator]]
+- [[Momentum Eigenstates]]
+- [[Momentum Space Wave Function]]
+- [[Fourier Transform Pair Position-Momentum]]
+- [[Wave Packets]]
+- [[Gaussian Wave Packet]]
+- [[Wave Packet Spreading]]
+## Key Results
+- Completeness: ∫dx |x⟩⟨x| = Î, ∫dp |p⟩⟨p| = Î
+- Orthonormality: ⟨x|x'⟩ = δ(x-x'), ⟨p|p'⟩ = δ(p-p')
+- Normalization: ∫dx |ψ(x)|² = 1, ∫dp |ψ̃(p)|² = 1
+- Translation: T̂(a)|ψ⟩ → ψ'(x) = ψ(x-a)
+- Momentum operator: p̂ₓ = -iℏ(∂/∂x) in position basis
+- Heisenberg uncertainty: ΔxΔpₓ ≥ ℏ/2
+- Gaussian minimum uncertainty: ΔxΔpₓ = ℏ/2
+- de Broglie: λ = h/p
+## Mathematical Tools
+- Dirac delta function: δ(x-x') picks out x=x' in integrals
+- Continuous completeness: replaces Σᵢ with ∫dx or ∫dp
+- Generator relation: T̂(a) = e^(-ip̂ₓa/ℏ)
+- Infinitesimal form: T̂(δx) = 1 - (i/ℏ)p̂ₓδx
+- Fourier representation: δ(x-x') = (1/2πℏ)∫dp e^(ip(x-x')/ℏ)

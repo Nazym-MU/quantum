@@ -15,5 +15,4 @@ $$\hat{H}\ket{E_n} = E_n\ket{E_n}$$
 - Eigenvalues E_n are measurable energies
 ## Related
 - [[Time Evolution Operator]]
-- [[Connection - Hamiltonian and Time Evolution]]
 - [[Constants of Motion]]
