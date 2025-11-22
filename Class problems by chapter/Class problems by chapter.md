@@ -1,1 +1,3 @@
-[[Chapter 1: Stern-Gerlach experiments]]
+[[Chapter 1 - SG experiments]]
+
+
