@@ -13,5 +13,4 @@ $$|\psi'\rangle \xrightarrow[S_z]{} \begin{pmatrix} \langle+z|\psi'\rangle \\ \l
 Left to right - active, right to left - passive
 Transformation of operators - [[S-Matrix and Basis Changes]]
 ## Related
-- [[Matrix Mechanics]]
 - [[Basis States and Completeness]]
