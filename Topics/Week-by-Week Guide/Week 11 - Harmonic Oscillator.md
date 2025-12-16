@@ -6,7 +6,6 @@ The [[Harmonic Oscillator]] is central to quantum mechanics because any potentia
 4. **Zero-Point Energy**: Ground state has E₀ = ½ℏω due to [[Uncertainty|uncertainty principle]]
 
 **Alternative approach**: [[Week 11.2 - Position Space Solution and Parity]] covers solving via Schrödinger equation in position space, revealing [[Hermite Polynomials]] and symmetry properties.
-
 ## Essential Formulas
 ### Hamiltonian and Commutator
 - $\hat{H} = \hat{p}^2/2m + \frac{1}{2}mω^2\hat{x}^2$

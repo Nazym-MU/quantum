@@ -49,4 +49,3 @@ Classical turning points: x_n = ±√((2n+1)ℏ/mω) where all energy is potenti
 - [[Number Operator]]
 - [[Zero-Point Energy]]
 - [[Harmonic Oscillator Wave Functions]]
-- [[Molecular Vibrations]]

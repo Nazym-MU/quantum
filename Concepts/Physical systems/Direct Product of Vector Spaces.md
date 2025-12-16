@@ -19,4 +19,3 @@ The inner product factors into products of inner products in each space.
 **Direct product:** $|\psi\rangle_1 \otimes |\phi\rangle_2$ → vector in larger space; - vectors from **different** spaces
 ## Related Concepts
 - [[Week 5.2 - Two-Particle Systems]]
-- [[Matrix Mechanics]]

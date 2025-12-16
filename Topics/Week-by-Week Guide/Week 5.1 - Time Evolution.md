@@ -10,5 +10,4 @@
 - Time evolution: [[<6>]]
 ## Related Topics
 - [[Commutators]]
-- [[Relative phases]]
 - [[Expectation Values]]

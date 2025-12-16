@@ -1,33 +1,17 @@
-# Probability Current Derivation
-
-## Goal
-Derive the probability current j_x and show it satisfies a local conservation law.
-
-## Starting Point
-Time-dependent [[Schrödinger Equation (Time-Dependent)]]:
+[[Schrödinger Equation (Time-Dependent)]]:
 $$i\hbar\frac{\partial\psi}{\partial t} = -\frac{\hbar^2}{2m}\frac{\partial^2\psi}{\partial x^2} + V(x)\psi$$
 
 ## Step 1: Time Derivative of Probability Density
-
 Consider ∂(ψ*ψ)/∂t. Using product rule:
 $$\frac{\partial(\psi^*\psi)}{\partial t} = \psi^*\frac{\partial\psi}{\partial t} + \psi\frac{\partial\psi^*}{\partial t}$$
-
 ## Step 2: Express Time Derivatives
-
 From Schrödinger equation:
 $$\frac{\partial\psi}{\partial t} = \frac{1}{i\hbar}\left[-\frac{\hbar^2}{2m}\frac{\partial^2\psi}{\partial x^2} + V(x)\psi\right]$$
-
 Taking complex conjugate:
 $$\frac{\partial\psi^*}{\partial t} = \frac{-1}{i\hbar}\left[-\frac{\hbar^2}{2m}\frac{\partial^2\psi^*}{\partial x^2} + V(x)\psi^*\right]$$
-
-(V is real, so V* = V)
-
 ## Step 3: Substitute and Simplify
-
 $$\frac{\partial(\psi^*\psi)}{\partial t} = \frac{1}{i\hbar}\left[\psi^*\left(-\frac{\hbar^2}{2m}\frac{\partial^2\psi}{\partial x^2} + V\psi\right) - \psi\left(-\frac{\hbar^2}{2m}\frac{\partial^2\psi^*}{\partial x^2} + V\psi^*\right)\right]$$
-
-The V terms cancel: Vψ*ψ - Vψψ* = 0
-
+The V terms cancel: $Vψ^*ψ - Vψψ^* = 0$
 $$\frac{\partial(\psi^*\psi)}{\partial t} = \frac{1}{i\hbar}\left[-\frac{\hbar^2}{2m}\left(\psi^*\frac{\partial^2\psi}{\partial x^2} - \psi\frac{\partial^2\psi^*}{\partial x^2}\right)\right]$$
 
 $$= -\frac{\hbar}{2mi}\left(\psi^*\frac{\partial^2\psi}{\partial x^2} - \psi\frac{\partial^2\psi^*}{\partial x^2}\right)$$
@@ -68,10 +52,11 @@ If ψ = Ae^(ikx) + Be^(-ikx), then:
 - ψ* = A*e^(-ikx) + B*e^(ikx)
 - ∂ψ*/∂x = -ikA*e^(-ikx) + ikB*e^(ikx)
 
-Computing ψ*∂ψ/∂x (4 terms):
+Computing $ψ^*∂ψ/∂x$ (4 terms):
 $$\psi^*\frac{\partial\psi}{\partial x} = ik|A|^2 + ik(AB^*e^{2ikx} - A^*Be^{-2ikx}) - ik|B|^2$$
 
-Computing ψ∂ψ*/∂x (4 terms):
+Computing $ψ∂ψ^*/∂x$ (4 terms):
+
 $$\psi\frac{\partial\psi^*}{\partial x} = -ik|A|^2 - ik(AB^*e^{2ikx} - A^*Be^{-2ikx}) + ik|B|^2$$
 
 Subtracting:

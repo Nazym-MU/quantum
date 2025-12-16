@@ -11,5 +11,9 @@
 - [[Week 9 - Uncertainty Relations]]
 - [[Week 9.2 - Bound States and Potential Wells]]
 - [[Week 10 - Scattering in One Dimension]]
+- [[Week 11 - Harmonic Oscillator]]
+- [[Week 11.2 - Position Space Solution and Parity]]
+- [[Week 13 - Three-Dimensional Wave Mechanics and Two-Body Problem]]
+- [[Week 14 - Orbital Angular Momentum in Position Space]]
 ---
 [[README]]

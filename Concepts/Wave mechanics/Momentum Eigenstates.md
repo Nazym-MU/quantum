@@ -1,6 +1,5 @@
-Momentum eigenstates |p⟩ satisfy:
+An arbitrary state can be expressed as a superposition of momentum eigenstates. Momentum eigenstates |p⟩ satisfy:
 $$\hat{p}_x|p\rangle = p|p\rangle$$
-where p ∈ ℝ ranges over all possible momenta.
 ## Key Properties
 **Completeness:**
 $$\int_{-\infty}^{\infty} dp \, |p\rangle\langle p| = \hat{I}$$

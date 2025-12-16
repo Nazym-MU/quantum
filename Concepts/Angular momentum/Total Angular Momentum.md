@@ -20,6 +20,5 @@ Triplet States:
 - $|s=1, m=0\rangle = \frac{1}{\sqrt{2}}(|+z,-z\rangle + |-z,+z\rangle)$
 - $|s=1, m=-1\rangle = |-z,-z\rangle$
 ## Related
-- [[Two-Particle Spin Systems]]
 - [[Hyperfine Splitting]]
 - [[Angular Momentum Operators]]

@@ -1,22 +1,11 @@
 **Problem:** Solve TISE for infinite square well V(x) = 0 for |x| < a/2, V(x) = ∞ for |x| > a/2.
-
 **Step 1: Inside the well (|x| < a/2)**
-
 Schrödinger equation:
 $$-\frac{\hbar^2}{2m}\frac{d^2\psi}{dx^2} = E\psi$$
-
-Rearrange:
 $$\frac{d^2\psi}{dx^2} = -k^2\psi, \quad k = \sqrt{2mE/\hbar^2}$$
-
 **Step 2: General solution**
-
-Since d²ψ/dx² = -k²ψ, try:
 $$\psi(x) = A\sin(kx) + B\cos(kx)$$
-
-Verify: d²ψ/dx² = -k²(A sin kx + B cos kx) = -k²ψ ✓
-
 **Step 3: Apply boundary conditions**
-
 At x = -a/2: ψ(-a/2) = 0
 $$A\sin(-ka/2) + B\cos(-ka/2) = 0$$
 $$-A\sin(ka/2) + B\cos(ka/2) = 0 \quad \text{...(1)}$$
@@ -25,9 +14,7 @@ At x = a/2: ψ(a/2) = 0
 $$A\sin(ka/2) + B\cos(ka/2) = 0 \quad \text{...(2)}$$
 
 **Step 4: Matrix form**
-
 $$\begin{pmatrix} \sin(ka/2) & \cos(ka/2) \\ -\sin(ka/2) & \cos(ka/2) \end{pmatrix} \begin{pmatrix} A \\ B \end{pmatrix} = \begin{pmatrix} 0 \\ 0 \end{pmatrix}$$
-
 **Step 5: Nontrivial solutions**
 
 For nonzero A, B, determinant must vanish:
